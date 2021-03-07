@@ -7,11 +7,11 @@
 	>
 <channel>
 	<title>
-	Kommentare für connyfoodie	</title>
-	<atom:link href="/comments/feed/" rel="self" type="application/rss+xml" />
+	Kommentare zu: Deine Wohlfühlernährung mit den Fünf Elementen	</title>
+	<atom:link href="/beispiel-seite/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>connyfoodie: Fünf-Elemente-Wohlfühlernährung</description>
-	<lastBuildDate>Sun, 07 Mar 2021 19:51:55 +0000</lastBuildDate>
+	<lastBuildDate>Sun, 07 Mar 2021 19:42:15 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>

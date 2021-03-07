@@ -8,8 +8,8 @@
 	>
 
 <channel>
-	<title>connyfoodie</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
+	<title>connyfoodie &#8211; connyfoodie</title>
+	<atom:link href="/author/connyfoodie/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>connyfoodie: Fünf-Elemente-Wohlfühlernährung</description>
 	<lastBuildDate>Sun, 07 Mar 2021 17:31:44 +0000</lastBuildDate>
