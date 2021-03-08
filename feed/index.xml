@@ -12,7 +12,7 @@
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>connyfoodie: Fünf-Elemente-Wohlfühlernährung</description>
-	<lastBuildDate>Sun, 07 Mar 2021 17:31:44 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 08 Mar 2021 15:04:29 +0000</lastBuildDate>
 	<language>de-DE</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
@@ -28,10 +28,27 @@
 				<category><![CDATA[Allgemein]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
-					<description><![CDATA[Komm mit auf eine Reise in die Welt der Fünf-Elemente-Wohlfühlernährung: Iss gesund und gut im Einklang mit dem Kreislauf der Jahreszeiten. Lerne die Basics der Fünf-Elemente-Ernährung und die Besonderheiten im Jahreszeitenlauf kennen. Klick dich durch unsere Webseite und schmökere in unseren E-Books! Denn niemals war gesunde Ernährung wichtiger als jetzt!]]></description>
-										<content:encoded><![CDATA[
-<p>Komm mit auf eine Reise in die Welt der Fünf-Elemente-Wohlfühlernährung: Iss gesund und gut im Einklang mit dem Kreislauf der Jahreszeiten. Lerne die Basics der Fünf-Elemente-Ernährung und die Besonderheiten im Jahreszeitenlauf kennen. Klick dich durch unsere Webseite und schmökere in unseren E-Books! Denn niemals war gesunde Ernährung wichtiger als jetzt!</p>
-]]></content:encoded>
+					<description><![CDATA[Komm mit auf eine Reise in die Welt der Fünf-Elemente-Wohlfühlernährung: Iss gesund und gut im Einklang mit dem Kreislauf der Jahreszeiten. Lerne die Basics der Fünf-Elemente-Ernährung und die Besonderheiten im Jahreszeitenlauf kennen. Klick dich durch unsere Webseite und schmökere in unseren e-books! Denn niemals war gesunde Ernährung wichtiger als jetzt!]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1" class="elementor elementor-1" data-elementor-settings="[]">
+							<div class="elementor-section-wrap">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-3ec00a9a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3ec00a9a" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-130aecea" data-id="130aecea" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6262f3d5 elementor-widget elementor-widget-text-editor" data-id="6262f3d5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-text-editor elementor-clearfix"><p><!-- wp:paragraph --></p>
+<p>Komm mit auf eine Reise in die Welt der Fünf-Elemente-Wohlfühlernährung: Iss gesund und gut im Einklang mit dem Kreislauf der Jahreszeiten. Lerne die Basics der Fünf-Elemente-Ernährung und die Besonderheiten im Jahreszeitenlauf kennen. Klick dich durch unsere Webseite und schmökere in unseren e-books! Denn niemals war gesunde Ernährung wichtiger als jetzt!</p>
+<p><!-- /wp:paragraph --></p></div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+						</div>
+					</div>
+		]]></content:encoded>
 					
 		
 		
