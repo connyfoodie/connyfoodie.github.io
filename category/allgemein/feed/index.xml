@@ -12,30 +12,31 @@
 	<atom:link href="/category/allgemein/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
 	<description>connyfoodie: Fünf-Elemente-Wohlfühlernährung</description>
-	<lastBuildDate>Tue, 09 Mar 2021 16:19:57 +0000</lastBuildDate>
+	<lastBuildDate>Mon, 07 Jun 2021 19:40:11 +0000</lastBuildDate>
 	<language>de-DE</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.7</generator>
+	<generator>https://wordpress.org/?v=5.7.2</generator>
 	<item>
 		<title>Willkommen in der Welt der Wohlfühlernährung!</title>
-		<link>/2021/03/07/hallo-welt/</link>
+		<link>/2021/04/25/hallo-welt/</link>
+					<comments>/2021/04/25/hallo-welt/#respond</comments>
 		
 		<dc:creator><![CDATA[connyfoodie]]></dc:creator>
-		<pubDate>Sun, 07 Mar 2021 13:33:10 +0000</pubDate>
+		<pubDate>Sun, 25 Apr 2021 12:45:43 +0000</pubDate>
 				<category><![CDATA[Allgemein]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
 					<description><![CDATA[Komm mit auf eine Reise in die Welt der Fünf-Elemente-Wohlfühlernährung: Iss gesund und gut im Einklang mit dem Kreislauf der Jahreszeiten. Lerne die Basics der Fünf-Elemente-Ernährung und die Besonderheiten im Jahreszeitenlauf kennen. Klick dich durch unsere Webseite und schmökere in unseren e-books! Denn niemals war gesunde Ernährung wichtiger als jetzt!]]></description>
 										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1" class="elementor elementor-1" data-elementor-settings="[]">
 							<div class="elementor-section-wrap">
-							<section class="elementor-section elementor-top-section elementor-element elementor-element-b8835fa elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="b8835fa" data-element_type="section">
+							<section class="elementor-section elementor-top-section elementor-element elementor-element-5a7c6461 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="5a7c6461" data-element_type="section">
 						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5446828" data-id="5446828" data-element_type="column">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-341689e" data-id="341689e" data-element_type="column">
 			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-20e7259 elementor-widget-divider--separator-type-pattern elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="20e7259" data-element_type="widget" data-widget_type="divider.default">
+								<div class="elementor-element elementor-element-5f25648 elementor-widget-divider--separator-type-pattern elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="5f25648" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;none&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 24 24&#039; fill=&#039;black&#039; stroke=&#039;none&#039;%3E%3Cpath d=&#039;M12.7,2.3c-0.4-0.4-1.1-0.4-1.5,0l-8,9.1c-0.3,0.4-0.3,0.9,0,1.2l8,9.1c0.4,0.4,1.1,0.4,1.5,0l8-9.1c0.3-0.4,0.3-0.9,0-1.2L12.7,2.3z&#039;/%3E%3C/svg%3E&quot;);">
 			<span class="elementor-divider-separator">
@@ -43,30 +44,13 @@
 		</div>
 				</div>
 				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-3ec00a9a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="3ec00a9a" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-130aecea" data-id="130aecea" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-6262f3d5 elementor-widget elementor-widget-text-editor" data-id="6262f3d5" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-element elementor-element-19c9611e elementor-widget elementor-widget-text-editor" data-id="19c9611e" data-element_type="widget" data-widget_type="text-editor.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-text-editor elementor-clearfix"><p><!-- wp:paragraph --></p>
+								<!-- wp:paragraph -->
 <p>Komm mit auf eine Reise in die Welt der Fünf-Elemente-Wohlfühlernährung: Iss gesund und gut im Einklang mit dem Kreislauf der Jahreszeiten. Lerne die Basics der Fünf-Elemente-Ernährung und die Besonderheiten im Jahreszeitenlauf kennen. Klick dich durch unsere Webseite und schmökere in unseren e-books! Denn niemals war gesunde Ernährung wichtiger als jetzt!</p>
-<p><!-- /wp:paragraph --></p></div>
+<!-- /wp:paragraph -->						</div>
 				</div>
-				</div>
-					</div>
-		</div>
-							</div>
-		</section>
-				<section class="elementor-section elementor-top-section elementor-element elementor-element-37efc0a elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="37efc0a" data-element_type="section">
-						<div class="elementor-container elementor-column-gap-default">
-					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-6bdc7ef" data-id="6bdc7ef" data-element_type="column">
-			<div class="elementor-widget-wrap elementor-element-populated">
-								<div class="elementor-element elementor-element-cb10ce9 elementor-widget-divider--separator-type-pattern elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="cb10ce9" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-element elementor-element-008e9f6 elementor-widget-divider--separator-type-pattern elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="008e9f6" data-element_type="widget" data-widget_type="divider.default">
 				<div class="elementor-widget-container">
 					<div class="elementor-divider" style="--divider-pattern-url: url(&quot;data:image/svg+xml,%3Csvg xmlns=&#039;http://www.w3.org/2000/svg&#039; preserveAspectRatio=&#039;none&#039; overflow=&#039;visible&#039; height=&#039;100%&#039; viewBox=&#039;0 0 24 24&#039; fill=&#039;black&#039; stroke=&#039;none&#039;%3E%3Cpath d=&#039;M12.7,2.3c-0.4-0.4-1.1-0.4-1.5,0l-8,9.1c-0.3,0.4-0.3,0.9,0,1.2l8,9.1c0.4,0.4,1.1,0.4,1.5,0l8-9.1c0.3-0.4,0.3-0.9,0-1.2L12.7,2.3z&#039;/%3E%3C/svg%3E&quot;);">
 			<span class="elementor-divider-separator">
@@ -74,11 +58,9 @@
 		</div>
 				</div>
 				</div>
-				<div class="elementor-element elementor-element-b7ee4dd elementor-widget elementor-widget-image" data-id="b7ee4dd" data-element_type="widget" data-widget_type="image.default">
+				<div class="elementor-element elementor-element-5da1b38 elementor-widget elementor-widget-image" data-id="5da1b38" data-element_type="widget" data-widget_type="image.default">
 				<div class="elementor-widget-container">
-					<div class="elementor-image">
-										<img width="300" height="225" src="/wp-content/uploads/2021/03/Logo_Endversion.png" class="attachment-medium size-medium" alt="" loading="lazy" />											</div>
-				</div>
+															<img width="580" height="435" src="/wp-content/uploads/2021/06/Logo_Endversion.png" class="attachment-large size-large" alt="" loading="lazy" />															</div>
 				</div>
 					</div>
 		</div>
@@ -88,6 +70,8 @@
 					</div>
 		]]></content:encoded>
 					
+					<wfw:commentRss>/2021/04/25/hallo-welt/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
 		
 		
 			</item>
